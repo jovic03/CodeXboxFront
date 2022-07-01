@@ -1,3 +1,7 @@
+/dist
+/node_modules
+/dicasAvisosSobreCodar.txt
+
 # Logs
 logs
 *.log
